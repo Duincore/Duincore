@@ -1,13 +1,13 @@
-<!-- Duincore README - Dark Theme with Orange & White Palette -->
+<!-- Duincore README - Dark Theme with OrangeRed & White Palette -->
 
 <div align="center">
 
-# 🟠 **Duincore**
+# 🔴 **Duincore**
 ### _Developing Cross-Platform UI Component Libraries for Modern Apps_
 
-![Free](https://img.shields.io/badge/Free-Yes-FFA500?style=for-the-badge&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-FFA500?style=for-the-badge&logoColor=white)
-![Cross Platform](https://img.shields.io/badge/Cross%20Platform-Yes-FFA500?style=for-the-badge&logoColor=white)
+![Free](https://img.shields.io/badge/Free-Yes-FF4500?style=for-the-badge&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-FF4500?style=for-the-badge&logoColor=white)
+![Cross Platform](https://img.shields.io/badge/Cross%20Platform-Yes-FF4500?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -38,21 +38,21 @@ We aim to create modern, lightweight, and scalable tools that empower developers
 
 ## 📊 Infographic
 
-![Duincore's GitHub stats](https://github-readme-stats.vercel.app/api?username=duincore&show_icons=true&bg_color=000000&title_color=FFA500&text_color=FFFFFF&icon_color=FFA500)
+![Duincore's GitHub stats](https://github-readme-stats.vercel.app/api?username=duincore&show_icons=true&bg_color=000000&title_color=FF4500&text_color=FFFFFF&icon_color=FF4500)
 
-[![Duincore Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=duincore&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=000000&title_color=FFA500&text_color=FFFFFF&icon_color=FFA500)](https://github.com/duincore)
+[![Duincore Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=duincore&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=000000&title_color=FF4500&text_color=FFFFFF&icon_color=FF4500)](https://github.com/duincore)
 
 ### 📫 How to reach Duincore
 
 <div display="flex">
   <a href="https://www.linkedin.com/company/duincore/">
-    <img src="https://img.shields.io/badge/linkedin-%23FFA500.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-%23FF4500.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:hello@duincore.com">
-    <img src="https://img.shields.io/badge/Email-%23FFA500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-%23FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://instagram.com/duincore">
-    <img src="https://img.shields.io/badge/Instagram-%23FFA500?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23FF4500?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
@@ -69,7 +69,7 @@ We aim to create modern, lightweight, and scalable tools that empower developers
 ---
 
 ## 🎨 Design & Theme
-- **Primary Colors:** Orange (`#FFA500`) & White (`#FFFFFF`)  
+- **Primary Colors:** OrangeRed (`#FF4500`) & White (`#FFFFFF`)  
 - **Theme:** Dark Mode UI & Docs  
 
 ---
